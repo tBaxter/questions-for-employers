@@ -27,17 +27,17 @@ Follow-ups:
 
 **What are the key accomplishments you’d like to see in this role over the next year?** This one's pretty much the inverse of the prior, but can be useful to compare and contrast responses.
 
-**To whom would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
+**Who would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
 
 
 ## Culture
-**What type of people are successful here? What type of people are not?**
+**What type of people are successful here? What type of people are not?** Pay close attention to this one. You can potentially pick up a lot of red flags for homogenous, non-inclusive, bro-type cultures. The phrase "culture fit" could be a warning sign.
 
-**How do you determine if someone is a poor fit for the company?**
+**How do you determine if someone is a poor fit for the company?** Same as above, they may tell you more than they mean to about what they value (and what they don't).
 
 **If an employee does something harmful that isn't a fireable offense, how do you handle that? What steps do you take to create a culture of accountability?** They absolutely should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are not being addressed.
 
-**Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?** You should hear something about rotation of duties or location, sabbaticals, etc.
+**Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?** You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
 
 **How does internal communication work?** This can be a *really* telling question.
 
@@ -65,9 +65,7 @@ Follow-ups:
 
 **What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
-**What time do people normally leave work?** 
-
-**What time to people normally start work?**
+**What time do people normally leave work? What time do they normally start?**
 
 **Would I need to be on call? How often?**
 
@@ -77,13 +75,17 @@ Follow-ups:
 
 **Are the company’s managers inclined to call employees at home with questions or comments?** If so, that's bad. Doubly so if they'll call at night or weekends? 
 
+**How many layers of company managers or executives does one have to go through to get approval for a new idea?**
+
 
 
 ## Understanding the company and team
 
-**What’s the biggest change the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
+**How are your teams structured? What is the management structure like? How do the two usually interact?**
 
-**How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real?
+**What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
+
+**How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
 
 Follow-ups: 
 * Why is that your reward system? 
@@ -105,44 +107,23 @@ Follow-ups:
 
 **How much are you planning to hire in the next year?** If it's a large number, ask the follow-up: How do you plan to hire and onboard that many people?
 
+**How does the company usually solve problems: through committee, group meetings, individual meetings or management only?** Helps get a sense of where they're at on the consensus-driven to top-down continuum.
+
+**How are important decisions made and communicated?**  Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
 
 
-22 How does the company solve problems... through committee, group meetings, individual meetings or management only? 
 
+## Doing the work
 
-25 How does the company demonstrate to an employee that they are an asset to the company?  
+**How does work get assigned?**
 
-How are your teams structured? What is the management structure like?
+**How often do inexperienced people get to work directly with more experienced people?** And how so? Pairing, or something else? How does it work?
 
+**How do you balance support and feature development?**
 
-Tech
+**Tell me about your cross-functional teams** Do they have dedicated designers? Product owners? QA? Technical writer? Dev manager? How cross-functional teams are built tells you a lot about what the company values enough to put on the team.
 
-How does engineering work get assigned?
-
-How often do you pair? What's pairing like? How often do inexperienced people work directly with experienced people?
-
-
-How are technical decisions made and communicated?
-
-How many layers of company managers or executives are there to gain approvals? 
-
-How do you balance support and feature development?
-
-Can you give me an example of someone who's been in a technical role at your company for a long time, and how their responsibilities and role have changed? 
-
-Do you have a dedicated designer? QA? Technical writer? Dev manager?
-
-How often do you have meetings? Are there any scheduled/standing meetings? Who talks to customers (if appropriate) and how?
-
-Has there been a situation where someone raised an ethical concern? If so, how was it handled? If not, have there really not been any?
-
-How are decisions made? Is architecture dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
-
-How are disagreements solved - both technical disagreements and other kinds? What happens when personalities clash?
-
-Can you tell me about a time when you've had to let someone go?
-
-Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
+**How often do you have meetings? Are there scheduled/standing meetings? How much time should I expect to be in meetings** Remember, though, that for some positions (especially senior positions) meetings are a core component of the job.
 
 
 
@@ -248,4 +229,15 @@ How often do you offer above asking? Can I speak with someone who got such an of
 What do you wish you had known when you joined this company?
 Why did you choose to join this company?
 What's the single biggest issue or problem facing the team/department/company?" What's currently being done to address it?
+
+
+Has there been a situation where someone raised an ethical concern? If so, how was it handled? If not, have there really not been any?
+
+
+How are disagreements solved - both technical disagreements and other kinds? What happens when personalities clash?
+
+Can you tell me about a time when you've had to let someone go?
+
+Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
+
 
