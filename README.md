@@ -28,7 +28,6 @@ Follow-ups:
 
 **What are the key accomplishments you’d like to see in this role over the next year?** This one's pretty much the inverse of the prior, but can be useful to compare and contrast responses.
 
-**Who would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
 
 
 ## Culture
@@ -86,6 +85,23 @@ Follow-ups:
 
 **Tell me about a situation where someone raised a concern about DE&I or ethics?** How was it handled? If not, have there really not been any? Is management listening?
 
+**Tell me about the organization demographics, particularly leadership.** Bad orgs don’t know or get defensive; good orgs are open and transparent; great orgs share what they’re doing to improve.
+
+**Tell me about your effort to attract a diverse pool of candidates.**
+
+**Tell me about your efforts to _retain_ a diverse group of employees.** This one is particular useful when paired with the previous.
+
+**Tell me about a time when a challenge or suggestion from a person of color was acted on in their favor?** How long ago was that?
+
+**What happened the last time an employee who wasn't a white cisgender male critiqued something your organization had done?**
+
+**What metrics are you currently using to track DE&I?**
+
+**What specifically are you doing to drive greater diversity in management?**
+
+**What benefits do you expect from increasing diversity among leadership?**
+
+**What benefits do you expect from increasing diversity across the org?**
 
 
 
@@ -130,6 +146,8 @@ Follow-ups:
 ## Leadership
 
 **Do managers regularly hold 1:1s?** What about skip levels? What sort of topics are discussed?
+
+**Who would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
 
 **What’s your (or my future boss’) leadership style?**
 
