@@ -1,10 +1,12 @@
 # Questions for potential employers
 
-This is a collection of questions I've gathered over the years that can help you get a better sense of what your potential employer is all about before you say "yes" to them. 
+This is a big collection of questions I've gathered over the years that have proven useful. In particular, they can really help you when you're trying to get a better sense of what your potential employer is all about before you say "yes" to them. 
 Remember, in any interview you're trying to get to know them as much as they're trying to get to know you. Maybe more.
 
 You wouldn't ask anyone all of these questions. Some of them are simple mechanics. Some of them help you when you've already got a whiff of org smells. 
-Most all of them are handy to have in your pocket. I've broken them out by subject matter, with some notes on things to look for and avoid.
+Most all of them are handy to have in your pocket. Usually, after you've read the role description and had a phone screen you should have a pretty good idea of which questions to highlight.
+
+I've broken them out by subject matter, with some notes on things to look for and avoid.
 
 And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
 
@@ -67,7 +69,7 @@ Follow-ups:
 
 **What time to people normally start work?**
 
-**Would I need to be on call? How often?**I
+**Would I need to be on call? How often?**
 
 **How often are there emergencies or times when people have to work extra hours?** Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
 
@@ -91,28 +93,26 @@ Follow-ups:
 
 **What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?**
 
-What would you say are the company’s strengths?  
-15. What would you say are the company’s weaknesses?  
-16 What is the company’s current strategy for generating new business?  
-17 What is the company’s strategy for maintaining existing business? 
+**What would you say are the company’s strengths?** Alternately, what would you say are the company’s weaknesses? It can be illuminating to flip these traditional interview questions back on the company.
 
-18 Are you profitable? if not, how does this affect what you can do? What's your planned timeline for becoming profitable?
+**What is the company’s current strategy for generating new business? What is the company’s strategy for maintaining existing business?** This speaks to the viability of the business model and is particularly useful for startups.
 
-19 How do you make money? (I often explain to my parents or non-technical friends companies' business models to test if they really make sense.)
+**Are you profitable? if not, how does this affect what you can do? What's your planned timeline for becoming profitable?** Again, particularly useful for startups. Don't ask a publicly traded company this. It will just show you didn't do any research on readily available information.
 
-20 How much are you planning to hire in the next year?
+**How do you make money?** Again, mostly for startups, but can they explain the business model in a way that makes sense?
 
-How are your teams structured? What is the management structure like?
+**Are company financials, minus salaries, transparent throughout the company?**
 
-21 Are company financials, minus salaries, transparent throughout the company?
+**How much are you planning to hire in the next year?** If it's a large number, ask the follow-up: How do you plan to hire and onboard that many people?
+
+
 
 22 How does the company solve problems... through committee, group meetings, individual meetings or management only? 
 
-23 How many clients has the company added in the past year? Who are they? 
-
-24 How many clients has the company lost in the past year? Who are they? Why? 
 
 25 How does the company demonstrate to an employee that they are an asset to the company?  
+
+How are your teams structured? What is the management structure like?
 
 
 Tech
