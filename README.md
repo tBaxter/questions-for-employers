@@ -113,7 +113,7 @@ Follow-ups:
 
 
 
-## Doing the work
+## Doing the work (heavily tech biased)
 
 **How does work get assigned?**
 
@@ -127,57 +127,6 @@ Follow-ups:
 
 
 
-Career development
-Are employees encouraged to go speak at conferences? Do you cover travel to conferences? 
-
-Does your company support continuing education? (will they pay for employees to do a master's degree?)
-
-In what other ways do you support career development?
-
-Does the company routinely provide training, either internal or external, for new technologies such as software updates,/best practices? 
-
-
-
-The Interview process
-What’s the timeline for making a decision on this position? When should I get back in touch with you?
-
-Can you tell me about how the interview process is structured? How many interviews are there?
-
-
-
-Performance 
-How is performance evaluated? What criteria does the company use for performance reviews? Are these criteria documented?
-
-How often can I expect job performance to be reviewed by management? 
-
-Are raises based solely on job performance reviews? If not, what else is a factor? 
-
-Do you stack-rank employees?
-
-
-Compensation
-If this position is exempt (salary versus an hourly paid position) how much overtime do you assume I would put in without compensation? 
-
-If this is an exempt (salary) position, am I required to track all my time and if so, how?  
-What is the salary you expect to pay for this position?  
-Is there a company/employee bonus structure and if so, how does it work?  
-
-
-Engineering practices
-What version control system do you use? (if none, the interview should be over =))
-
-Do you do code review? Does all code get reviewed? Do you test your code?
-
-How do you make sure that all code is understood by more than one person?
-
-Do you have an issue tracker?
-
-How do you find bugs in your team's code? What recourse do you have when you find a serious bug in production code?
-
-Who is responsible for doing deployment? How often do you deploy?
-
-How do you think about code correctness?
-
 When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
 
 How/when do developers talk to non-developers? Is it easy to talk to the people who are will be using your product?
@@ -188,6 +137,51 @@ Who are the people at your company with a lot of depth of experience? Will I be 
 
 What's your approach to technical debt?
 
+
+
+## Career development
+
+**Are employees encouraged to go speak at conferences?** Do you cover travel to conferences? 
+
+**Does your company support continuing education?** If so, how (and how much?)
+
+**In what other ways do you support career development?**
+
+**Does the company routinely provide training, either internal or external, for new technologies such as software updates or best practices?**
+
+**Does the company allow employees to pursue their own training path** To what extent?
+
+
+
+## The Interview process
+
+**Can you tell me about how the interview process is structured?** How many interviews are there?
+
+**What’s the timeline for making a decision on this position?** When should I get back in touch with you?
+
+
+
+## Performance 
+
+**How is performance evaluated?** What criteria does the company use for performance reviews? Are these criteria documented? If not, how do you ensure fair and equitable performance reviews?
+
+**How often can I expect job performance to be reviewed by management?**
+
+**Are raises based solely on job performance reviews? If not, what else is a factor?**
+
+**Do you stack-rank employees?** If yes, run away. Only trash companies stack rank employees. Wen they said "we only hire the best" they neglected to say "and then we'll treat at least half of them like dirt, by design."
+
+
+## Compensation
+**If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?** 
+
+**If this is an exempt (salary) position, am I required to track all my time?** If so, how? And if it's not hourly, why?
+
+**What is the salary you expect to pay for this position?**
+
+**Is there a company/employee bonus structure and if so, how does it work?**
+
+**How often do you offer above asking?** Can you speak with someone who got such an offer?
 
 
 More 
@@ -225,7 +219,6 @@ Things to look for in real life
 How is the office space physically organized?
 
 Other
-How often do you offer above asking? Can I speak with someone who got such an offer?
 What do you wish you had known when you joined this company?
 Why did you choose to join this company?
 What's the single biggest issue or problem facing the team/department/company?" What's currently being done to address it?
@@ -238,6 +231,25 @@ How are disagreements solved - both technical disagreements and other kinds? Wha
 
 Can you tell me about a time when you've had to let someone go?
 
-Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
+
+
+
+## For engineering orgs
+
+**What version control system do you use? How do you track issues?** If the answer to either is "we don't", that's very bad.
+
+**What's the process for code review?** Bonus points if they can point to documented guidelines for behavior in code reviews.
+
+**How do you make sure that all code is understood by more than one person?**
+
+**How do you find bugs in your team's code?** Testing? Something else?
+
+**What happens when you find a serious bug in production code?** If they say this doesn't happen, that's a warning sign.
+
+**Who is responsible for doing deployment? How often do you deploy?**
+
+**How do you think about code correctness?**
+
+**Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?**
 
 
