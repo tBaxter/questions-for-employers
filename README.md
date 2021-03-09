@@ -103,6 +103,8 @@ Follow-ups:
 
 **What benefits do you expect from increasing diversity across the org?**
 
+**How transparent is your pay data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
+
 
 
 ## Understanding the company and team
