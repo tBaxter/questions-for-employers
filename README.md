@@ -10,6 +10,7 @@ I've broken them out by subject matter, with some notes on things to look for an
 
 And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
 
+
 ## Getting started
 
 **What's the onboarding process like?**
@@ -77,6 +78,15 @@ Follow-ups:
 
 **How many layers of company managers or executives does one have to go through to get approval for a new idea?**
 
+**How are disagreements solved? What happens when personalities clash?** You're looking for a real, equitable and fair plan here, not a handwave-y answer.
+
+
+
+## Diversity, equity, inclusion and ethics
+
+**Tell me about a situation where someone raised a concern about DE&I or ethics?** How was it handled? If not, have there really not been any? Is management listening?
+
+
 
 
 ## Understanding the company and team
@@ -91,9 +101,11 @@ Follow-ups:
 * Why is that your reward system? 
 * If you could change any one thing about it, what would it be?
 
-**Which competitor has you most worried?** 
+**What has you most worried?** What keeps you up at night? A competitor? Something else?
 
 **What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?**
+
+**What do you wish you had known when you joined this company?**
 
 **What would you say are the company’s strengths?** Alternately, what would you say are the company’s weaknesses? It can be illuminating to flip these traditional interview questions back on the company.
 
@@ -111,9 +123,19 @@ Follow-ups:
 
 **How are important decisions made and communicated?**  Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
 
+**How does sales / operations / technology / marketing / finance work around here?** Groups other than the one you’re interviewing for -- the interviewer should have familiarity with those groups, and should (hopefully) speak well of them.
 
 
-## Doing the work (heavily tech biased)
+
+## Leadership
+
+**Do managers regularly hold 1:1s?** What about skip levels? What sort of topics are discussed?
+
+**What’s your (or my future boss’) leadership style?**
+
+
+
+## Doing the work
 
 **How does work get assigned?**
 
@@ -125,17 +147,9 @@ Follow-ups:
 
 **How often do you have meetings? Are there scheduled/standing meetings? How much time should I expect to be in meetings** Remember, though, that for some positions (especially senior positions) meetings are a core component of the job.
 
+**When something goes wrong, how do you handle it?**
 
-
-When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
-
-How/when do developers talk to non-developers? Is it easy to talk to the people who are will be using your product?
-
-Can I see some code the team I'm interviewing for has written? (from an open-source project you work on, for example)
-
-Who are the people at your company with a lot of depth of experience? Will I be able to talk to them?
-
-What's your approach to technical debt?
+**What kind of tools are provided by management to help an me do my job?** (machinery, computers, office supplies, etc.)?  How often is this equipment updated?
 
 
 
@@ -171,6 +185,9 @@ What's your approach to technical debt?
 
 **Do you stack-rank employees?** If yes, run away. Only trash companies stack rank employees. Wen they said "we only hire the best" they neglected to say "and then we'll treat at least half of them like dirt, by design."
 
+**Can you tell me about a time when you've had to let someone go?**
+
+
 
 ## Compensation
 **If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?** 
@@ -184,53 +201,30 @@ What's your approach to technical debt?
 **How often do you offer above asking?** Can you speak with someone who got such an offer?
 
 
-More 
-
-How does sales / operations / technology / marketing / finance work around here? (I.e., groups other than the one you’re interviewing for.)
-
-How did you get your start in this industry? Why do you stay?
-
-What keeps you up at night? What’s your biggest worry these days?
+## More 
 
 What information is shared with the employees (revenues, costs, operating metrics)? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
 
 What is the rhythm to the work around here? Is there a time of year that it’s “all hands on deck” and we’re pulling all-nighters, or is it pretty consistent throughout the year? How about during the week / month? Is it pretty evenly spread throughout the week / month, or are there crunch days?
 
 Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left? 
+
 How many people are directly or indirectly involved in creative decisions?  
-What kind of tools are provided by management to help an me do my job? (machinery, computers, office supplies, etc.)?  How often is this equipment updated?
 
 What kinds of tasks are routinely demanded of by management beyond the original job description? 
 
 Despite limitations or experience with a specific task, how much emphasis is placed on successful task completion none the less?  
 
-Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?  
-
-Do managers regularly hold 1:1s? What about skip levels? What sort of topics do they discuss?
-
-What’s your (or my future boss’) leadership style?
+Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?
 
 
-Community involvement
-Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
+## Things to look for in real life
 
+* How is the office space physically organized?
 
-Things to look for in real life
-How is the office space physically organized?
+* Is it clean? Well kept?
 
-Other
-What do you wish you had known when you joined this company?
-Why did you choose to join this company?
-What's the single biggest issue or problem facing the team/department/company?" What's currently being done to address it?
-
-
-Has there been a situation where someone raised an ethical concern? If so, how was it handled? If not, have there really not been any?
-
-
-How are disagreements solved - both technical disagreements and other kinds? What happens when personalities clash?
-
-Can you tell me about a time when you've had to let someone go?
-
+* Are employees expected to pay for basics (like coffee)?
 
 
 
@@ -250,6 +244,14 @@ Can you tell me about a time when you've had to let someone go?
 
 **How do you think about code correctness?**
 
-**Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?**
+**Is there a written roadmap all developers can see?** How far into the future does it extend? How closely is it followed?
+
+**How/when do developers talk to non-developers?** Is it easy to talk to the people who will be using your product?
+
+**Can I see some code the team I'm interviewing for has written?** From an open-source project, for example.
+
+**What's your approach to technical debt?**
+
+**Do you contribute to open source projects?** Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
 
 
