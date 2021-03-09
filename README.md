@@ -6,38 +6,37 @@ Remember, in any interview you're trying to get to know them as much as they're 
 You wouldn't ask anyone all of these questions. Some of them are simple mechanics. Some of them help you when you've already got a whiff of org smells. 
 Most all of them are handy to have in your pocket. I've broken them out by subject matter, with some notes on things to look for and avoid.
 
-And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/)
+And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
 
-## Understanding the position
+## Getting started
 
 **What's the onboarding process like?**
 Do they have one? How well-defined is it? Do they have an "buddy system" or other mechanisms to help you get ramped up, or do they just let you sink or swim?
 
-**Is this a new position or replacing a former employee?**
-Can be useful to understand how well-defined the position is and if it's a position set up for success.
+**Is this a new position or replacing a former employee?** This can be useful to understand how well-defined the position is and if it's a position set up for success.
 
 Follow-ups: 
 * If this is a replacement position, what happened to the former employee? How long were they in the role? 
 * If it's a new position, what is the support level? What does success look like?
 
-**In the first 60 to 90 days of employment, what would be my most urgent priorities?**
+**In the first 60 to 90 days of employment, what would be my most urgent priorities?** Helpful for getting past the position description to the real expectations of the work. Plus [the first 90 days are critical](https://randsinrepose.com/archives/ninety-days/).
 
-**What is the one thing I cannot fail at the first year?**
+**What is the one thing I cannot fail at the first year?** Similar to the above question, this helps you get a sense of what your success criteria would be as well as how well the employer has defined the role. If they don't have clear answers to either of these, the role is probably poorly defined and not set up for success.
 
-7. If I get the job, how do I earn a “gold star” on my performance review? What are the key accomplishments you’d like to see in this role over the next year?
+**What are the key accomplishments you’d like to see in this role over the next year?** This one's pretty much the inverse of the prior, but can be useful to compare and contrast responses.
 
-To whom would I directly report to?
+**To whom would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
 
-Understanding the team
+## Understanding the team
 
-8. What’s the biggest change your team has gone through in the last year? Does your team feel like things are getting better in the economy and for your business?
-
-9. What’s your (or my future boss’) leadership style?
-
-10 What is your reward system? Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Why is that your reward system? If you could change any one thing about it, what would it be?
+What’s the biggest change the team has gone through in the last year? Does the team currently feel optimistic about what's next?
 
 
-Understanding the company
+
+## Understanding the company
+
+What is the organization's reward system? Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Why is that your reward system? If you could change any one thing about it, what would it be?
+
 
 11. About which competitor are you most worried?
 
@@ -114,11 +113,13 @@ Can you tell me about how the interview process is structured? How many intervie
 
 
 Performance 
-How is performance evaluated? What criteria does the company use for performance reviews?
+How is performance evaluated? What criteria does the company use for performance reviews? Are these criteria documented?
 
 How often can I expect job performance to be reviewed by management? 
 
 Are raises based solely on job performance reviews? If not, what else is a factor? 
+
+Do you stack-rank employees?
 
 
 Compensation
@@ -224,8 +225,13 @@ What kind of tools are provided by management to help an me do my job? (machiner
 What kinds of tasks are routinely demanded of by management beyond the original job description? 
 
 Despite limitations or experience with a specific task, how much emphasis is placed on successful task completion none the less?  
+
 Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?  
+
 Do managers regularly hold 1:1s? What about skip levels? What sort of topics do they discuss?
+
+What’s your (or my future boss’) leadership style?
+
 
 Community involvement
 Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
