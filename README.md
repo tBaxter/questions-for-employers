@@ -27,24 +27,71 @@ Follow-ups:
 
 **To whom would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
 
-## Understanding the team
 
-What’s the biggest change the team has gone through in the last year? Does the team currently feel optimistic about what's next?
+## Culture
+**What type of people are successful here? What type of people are not?**
+
+**How do you determine if someone is a poor fit for the company?**
+
+**If an employee does something harmful that isn't a fireable offense, how do you handle that? What steps do you take to create a culture of accountability?** They absolutely should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are not being addressed.
+
+**Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?** You should hear something about rotation of duties or location, sabbaticals, etc.
+
+**How does internal communication work?** This can be a *really* telling question.
+
+**Is it easy to move to other divisions or offices?** Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
+
+**Are there catered suppers?** This sounds good. It's not. In any properly functioning organization, you should be home for supper.
+
+**How many hours a week does senior management work?** Do they put in 80-hour weeks? If so, run away.
+
+**What is the company’s policy on work/life balance?** How does that work out in practice?
+
+**How much vacation do people get?** If there's "unlimited" vacation, how much vacation do people normally take?
+
+**Do people work on the weekend?**
+
+**Do people check in when they're on vacation?**
+
+**What is your remote work policy?** *Why* is that your remote work policy?
+
+**Does this position require travel? How often?** 
+
+**Is it possible to take sabbaticals or unpaid vacation?**
+
+**How many hours do people work in an average week?** Because seriously, if the job can't be done in 40 hours, something is probably wrong.
+
+**What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
+
+**What time do people normally leave work?** 
+
+**What time to people normally start work?**
+
+**Would I need to be on call? How often?**I
+
+**How often are there emergencies or times when people have to work extra hours?** Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
+
+**What is your turnover rate?** How many devs were hired last year and how many left? Over the past 2-3 years? What are you doing to improve retention.
+
+**Are the company’s managers inclined to call employees at home with questions or comments?** If so, that's bad. Doubly so if they'll call at night or weekends? 
 
 
 
-## Understanding the company
+## Understanding the company and team
 
-What is the organization's reward system? Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Why is that your reward system? If you could change any one thing about it, what would it be?
+**What’s the biggest change the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
 
+**How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real?
 
-11. About which competitor are you most worried?
+Follow-ups: 
+* Why is that your reward system? 
+* If you could change any one thing about it, what would it be?
 
-12. What type of people are successful here? What type of people are not?
+**Which competitor has you most worried?** 
 
-13. What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?
+**What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?**
 
-14. What would you say are the company’s strengths?  
+What would you say are the company’s strengths?  
 15. What would you say are the company’s weaknesses?  
 16 What is the company’s current strategy for generating new business?  
 17 What is the company’s strategy for maintaining existing business? 
@@ -54,6 +101,8 @@ What is the organization's reward system? Is it a star system / team-oriented / 
 19 How do you make money? (I often explain to my parents or non-technical friends companies' business models to test if they really make sense.)
 
 20 How much are you planning to hire in the next year?
+
+How are your teams structured? What is the management structure like?
 
 21 Are company financials, minus salaries, transparent throughout the company?
 
@@ -69,6 +118,9 @@ What is the organization's reward system? Is it a star system / team-oriented / 
 Tech
 
 How does engineering work get assigned?
+
+How often do you pair? What's pairing like? How often do inexperienced people work directly with experienced people?
+
 
 How are technical decisions made and communicated?
 
@@ -129,55 +181,6 @@ If this is an exempt (salary) position, am I required to track all my time and i
 What is the salary you expect to pay for this position?  
 Is there a company/employee bonus structure and if so, how does it work?  
 
-Quality of life
-What is the company’s policy on work/life balance? 
-
-How much vacation do people get? If there's "unlimited" vacation, how much vacation do people normally take?
-
-Do people work on the weekend?
-
-Do people check in when they're on vacation? How often?
-
-Is it possible to work from home, say, 1 or 2 days a week? Does anyone do this? (can be a nice option to have)
-
-Does this position require travel? How often?
-
-Is it possible to take sabbaticals or unpaid vacation?
-
-How many hours do people work in an average week? In your busiest weeks?
-
-Is variability tolerated or is everyone expected to be on the same schedule?
-
-What time do people normally leave work?
-
-Would I need to be on call? How often?
-
-How often are there emergencies or times when people have to work extra hours?
-
-What is your turnover rate like?  How many devs were hired last year and how many left? Over the past 2-3 years? 
-
-Are the company’s managers inclined to call employees at home with questions or comments, any time of the day or night including weekends? 
-
-
-Culture
-How do you determine if someone is a poor fit for your company?
-
-How are your teams structured? What is the management structure like?
-
-How often do you pair? What's pairing like? How often do inexperienced people work directly with experienced people?
-
-Is there any sort of institutionalized way of dealing with plateauing or preventing burnout? (Expecting to hear about rotation of duties or location, sabbaticals.)
-
-Is it easy to move to other divisions or offices?
-
-How does internal communication work? This one is super important and I need to remember to ask it more.
-
-Are there catered suppers? (possibly bad)
-
-How many hours a week does senior management work? Do they put in 80-hour weeks?
-
-If an employee does something harmful that isn't a fireable offense, how do you handle that? What steps do you take to create a culture of accountability?
- 
 
 Engineering practices
 What version control system do you use? (if none, the interview should be over =))
