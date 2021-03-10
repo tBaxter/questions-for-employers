@@ -1,10 +1,10 @@
 # Questions for potential employers
 
-This is a big collection of questions I've gathered over the years that have proven useful. In particular, they can really help you when you're trying to get a better sense of what your potential employer is all about before you say "yes" to them. 
-Remember, in any interview you're trying to get to know them as much as they're trying to get to know you. Maybe more.
+This is a big collection of questions I've gathered over the years that have proven useful when interviewing.
+Remember, in any interview you're trying to get to know the company and the people you might be working with as much as they're trying to get to know you. Maybe more.
 
-You wouldn't ask anyone all of these questions. Some of them are simple mechanics. Some of them help you when you've already got a whiff of org smells. 
-Most all of them are handy to have in your pocket. Usually, after you've read the role description and had a phone screen you should have a pretty good idea of which questions to highlight.
+You wouldn't ask anyone all of these questions. Some of them are simple mechanics. Some of them are only appropriate for certain types of companies. Some of them help you most when you've already got a whiff of org smells. 
+They're all handy to have in your pocket, though. Usually, after you've read the role description and had a phone screen you should have a pretty good idea of which questions to highlight.
 
 I've broken them out by subject matter, with some notes on things to look for and avoid.
 
