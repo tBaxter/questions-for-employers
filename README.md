@@ -73,7 +73,7 @@ Follow-ups:
 
 **How often are there emergencies or times when people have to work extra hours?** Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
 
-**What is your turnover rate?** How many devs were hired last year and how many left? Over the past 2-3 years? What are you doing to improve retention.
+**What is your turnover rate?** How many people were hired last year and how many left? Over the past 2-3 years? What is the average time people stay? What are you doing to improve retention?
 
 **Are the company’s managers inclined to call employees at home with questions or comments?** If so, that's bad. Doubly so if they'll call at night or weekends? 
 
