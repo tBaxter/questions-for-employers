@@ -277,4 +277,7 @@ Does the company require a prospective employee to sign a non-complete contract?
 
 **Do you contribute to open source projects?** Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
 
+---------------
+
+With many thanks to all who have contributed to this list
 
