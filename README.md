@@ -51,6 +51,8 @@ Follow-ups:
 
 **How much vacation do people get?** If there's "unlimited" vacation, how much vacation do people normally take?
 
+**What holidays are observed?** Some companies do not observe federal and state holidays. For parents, this can be a real problem since schools usually do. If so, you may have to use a vacation day for your child's holiday.
+
 **Do people work on the weekend?**
 
 **Do people check in when they're on vacation?**
