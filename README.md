@@ -107,7 +107,7 @@ Follow-ups:
 
 **How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
 
-**Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges?
+**Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges? Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
 
 
 
@@ -281,4 +281,3 @@ Does the company require a prospective employee to sign a non-complete contract?
 ---------------
 
 With many thanks to all who have contributed to this list
-
