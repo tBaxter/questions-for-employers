@@ -109,7 +109,7 @@ Follow-ups:
 
 **Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges? Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
 
-**Do you have a standard insurance package that covers trans health care?** Even if you yourself would not use the insurance package, this still gives you good insight into their commitment to inclusion.
+**Do you have a standard insurance package that covers trans health care?** Even if you yourself might not use the insurance package, this still gives you good insight into their commitment to inclusion.
 
 
 
