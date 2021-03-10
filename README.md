@@ -103,7 +103,7 @@ Follow-ups:
 
 **What benefits do you expect from increasing diversity across the org?**
 
-**How transparent is your pay data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
+**How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
 
 
 
@@ -133,7 +133,7 @@ Follow-ups:
 
 **How do you make money?** Again, mostly for startups, but can they explain the business model in a way that makes sense?
 
-**Are company financials, minus salaries, transparent throughout the company?**
+**Are company financials transparent throughout the company?** What about salaries (see the DE&I section).
 
 **How much are you planning to hire in the next year?** If it's a large number, ask the follow-up: How do you plan to hire and onboard that many people?
 
@@ -212,7 +212,7 @@ Follow-ups:
 ## Compensation
 **If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?** 
 
-**If this is an exempt (salary) position, am I required to track all my time?** If so, how? And if it's not hourly, why?
+**If this is an exempt (salaried) position, am I required to track all my time?** If so, how? And if it's not hourly, why?
 
 **What is the salary you expect to pay for this position?**
 
