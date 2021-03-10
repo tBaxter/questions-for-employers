@@ -107,6 +107,8 @@ Follow-ups:
 
 **How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
 
+**Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges?
+
 
 
 ## Understanding the company and team
