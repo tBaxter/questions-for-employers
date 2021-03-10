@@ -209,7 +209,7 @@ Follow-ups:
 
 **Are raises based solely on job performance reviews? If not, what else is a factor?**
 
-**Do you stack-rank employees?** If yes, run away. Only trash companies stack rank employees. Wen they said "we only hire the best" they neglected to say "and then we'll treat at least half of them like dirt, by design."
+**Do you stack-rank employees?** If yes, run away. Only trash companies stack rank employees. When they said "we only hire the best" they neglected to say "and then we'll treat at least half of them like dirt, by design."
 
 **Can you tell me about a time when you've had to let someone go?**
 
