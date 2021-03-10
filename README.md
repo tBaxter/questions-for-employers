@@ -14,7 +14,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 ## Getting started
 
 **What's the onboarding process like?**
-Do they have one? How well-defined is it? Do they have an "buddy system" or other mechanisms to help you get ramped up, or do they just let you sink or swim?
+Do they have one? How well-defined is it? Do they have a "buddy system" or other mechanisms to help you get ramped up, or do they just let you sink or swim?
 
 **Is this a new position or replacing a former employee?** This can be useful to understand how well-defined the position is and if it's a position set up for success.
 
@@ -136,7 +136,6 @@ Follow-ups:
 **How do you make money?** Again, mostly for startups, but can they explain the business model in a way that makes sense?
 
 **Are company financials transparent throughout the company?** What about salaries? (see the DE&I section). This is another question that you probably don't want to ask a publicly traded company, because the financials should be public record. If you're curious, you should probably have already checked.
-
 
 **How much are you planning to hire in the next year?** If it's a large number, ask the follow-up: How do you plan to hire and onboard that many people?
 
