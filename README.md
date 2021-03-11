@@ -24,7 +24,9 @@ Follow-ups:
 
 **In the first 60 to 90 days of employment, what would be my most urgent priorities?** Helpful for getting past the position description to the real expectations of the work. Plus [the first 90 days are critical](https://randsinrepose.com/archives/ninety-days/).
 
-**What is the one thing I cannot fail at the first year?** Similar to the above question, this helps you get a sense of what your success criteria would be as well as how well the employer has defined the role. If they don't have clear answers to either of these, the role is probably poorly defined and not set up for success.
+**What is the one thing I absolutely must get right the first year?** Similar to the above question, this helps you get a sense of what your success criteria would be as well as how well the employer has defined the role. This one can also help get a better sense of the real priorities, which may differ from what the role description indicated. If they don't have clear answers to either of these questions, the role is probably poorly defined and not set up for success.
+
+**What does success look like *for your customers* for someone in this role?** A great question to help get a sense of how user-focused the organization is.
 
 **What are the key accomplishments you’d like to see in this role over the next year?** This one's pretty much the inverse of the prior, but can be useful to compare and contrast responses.
 
