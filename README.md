@@ -113,6 +113,7 @@ Follow-ups:
 
 **Do you have a standard insurance package that covers trans health care?** Even if you yourself might not use the insurance package, this still gives you good insight into their commitment to inclusion.
 
+**Do you offer paternity leave, or just maternity leave?** If they only offer maternity leave it can say a lot about the roles they expect women to play.
 
 
 ## Understanding the company and team
