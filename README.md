@@ -67,6 +67,8 @@ Follow-ups:
 
 **How many hours do people work in an average week?** Because seriously, if the job can't be done in 40 hours, something is probably wrong.
 
+**What is the rhythm to the work? Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
+
 **What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
 **What time do people normally leave work? What time do they normally start?**
@@ -162,6 +164,7 @@ Follow-ups:
 
 **What’s your (or my future boss’) leadership style?**
 
+**How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?** Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
 
 
 ## Doing the work
@@ -234,15 +237,11 @@ Follow-ups:
 
 What information is shared with the employees (revenues, costs, operating metrics)? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
 
-What is the rhythm to the work around here? Is there a time of year that it’s “all hands on deck” and we’re pulling all-nighters, or is it pretty consistent throughout the year? How about during the week / month? Is it pretty evenly spread throughout the week / month, or are there crunch days?
-
 Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left? 
 
 How many people are directly or indirectly involved in creative decisions?  
 
 What kinds of tasks are routinely demanded of by management beyond the original job description? 
-
-Despite limitations or experience with a specific task, how much emphasis is placed on successful task completion none the less?  
 
 Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?
 
