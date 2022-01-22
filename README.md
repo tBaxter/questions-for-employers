@@ -109,6 +109,8 @@ Follow-ups:
 
 **What benefits do you expect from increasing diversity across the org?**
 
+Why: The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
+
 **How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
 
 **Am I The Only One [in the demographic or under-represented group I identify as a member of]? If so, how do you plan to do to ensure that I am welcome, included and equal?** Follow-up: where do you anticipate challenges? Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
@@ -123,6 +125,8 @@ Follow-ups:
 **How are your teams structured? What is the management structure like? How do the two usually interact?**
 
 **What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
+
+**Is this a new role?** If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. If not, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you.
 
 **How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
 
@@ -166,6 +170,8 @@ Follow-ups:
 
 **How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?** Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
 
+**How do you nurture psychological safety in your team?**
+
 
 ## Doing the work
 
@@ -196,6 +202,8 @@ Follow-ups:
 **Does the company routinely provide training, either internal or external, for new technologies such as software updates or best practices?**
 
 **Does the company allow employees to pursue their own training path** To what extent?
+
+**When was the last time you promoted someone on your team? How did it happen?** How are they likely to handle it when you want a promotion?
 
 
 
