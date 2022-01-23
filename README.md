@@ -16,12 +16,6 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 **What's the onboarding process like?**
 Do they have one? How well-defined is it? Do they have a "buddy system" or other mechanisms to help you get ramped up, or do they just let you sink or swim?
 
-**Is this a new position or replacing a former employee?** This can be useful to understand how well-defined the position is and if it's a position set up for success.
-
-Follow-ups: 
-* If this is a replacement position, what happened to the former employee? How long were they in the role? 
-* If it's a new position, what is the support level? What does success look like?
-
 **In the first 60 to 90 days of employment, what would be my most urgent priorities?** Helpful for getting past the position description to the real expectations of the work. Plus [the first 90 days are critical](https://randsinrepose.com/archives/ninety-days/).
 
 **What is the one thing I absolutely must get right the first year?** Similar to the above question, this helps you get a sense of what your success criteria would be as well as how well the employer has defined the role. This one can also help get a better sense of the real priorities, which may differ from what the role description indicated. If they don't have clear answers to either of these questions, the role is probably poorly defined and not set up for success.
@@ -41,7 +35,7 @@ Follow-ups:
 
 **Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?** You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
 
-**How does internal communication work?** This can be a *really* telling question.
+**How does internal communication work? How does the company communicate with itself, and is that effective** This can be a *really* telling question. Are company communications scattered? Leaked out? Top down? How does it work? Does it work? 
 
 **Is it easy to move to other divisions or offices?** Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
 
@@ -85,6 +79,8 @@ Follow-ups:
 
 **How are disagreements solved? What happens when personalities clash?** You're looking for a real, equitable and fair plan here, not a handwave-y answer.
 
+**Given everything you like about the company culture, what failure modes do you think that it creates? Are those potential failure modes or have you seen them happen? How do you try to guard against them?** Cultural choices can have downsides, too. If the person who's answering you has been in the company for a while and can't give you a good answer, either they're unwilling to give you bad news about the company, or they're not very thoughtful about the culture and its failure modes.[who](url)
+
 
 
 ## Diversity, equity, inclusion and ethics
@@ -107,9 +103,7 @@ Follow-ups:
 
 **What benefits do you expect from increasing diversity among leadership?**
 
-**What benefits do you expect from increasing diversity across the org?**
-
-Why: The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
+**What benefits do you expect from increasing diversity across the org?** The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
 
 **How transparent is your salary and compensation data?** Outside of government the answer will almost always be "not at all" but good orgs will at least have a sense that's problematic and talk about how they deal with it.
 
@@ -119,6 +113,8 @@ Why: The workplace may be challenging, but it should never be threatening. A man
 
 **Do you offer paternity leave, or just maternity leave?** If they only offer maternity leave it can say a lot about the roles they expect women to play.
 
+**Most/all of my interviewers were men. Can I speak to someone else on the team to hear more about their own experience?** Does the team lacks diverse perspectives?
+
 
 ## Understanding the company and team
 
@@ -126,7 +122,11 @@ Why: The workplace may be challenging, but it should never be threatening. A man
 
 **What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
 
-**Is this a new role?** If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. If not, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you.
+**Is this a new role?** If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. If not, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you. This can be useful to understand how well-defined the position is and if it's a position set up for success.
+
+Follow-ups: 
+* If this is a replacement position, what happened to the former employee? How long were they in the role? 
+* If it's a new position, how is the company supporting it? What does success look like?
 
 **How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
 
@@ -164,7 +164,7 @@ Follow-ups:
 
 **Do managers regularly hold 1:1s?** What about skip levels? What sort of topics are discussed?
 
-**Who would I directly report to?** Honestly, I'm not sure this one is valuable unless you plan to internet-stalk your future boss. But I keep it because it can, in some cases, help you get a better sense of the org chart and where you'd be on it.
+**Who would I directly report to?** Honestly, In some cases, this question can help you get a better sense of the org chart and where you'd be on it. It can also be a clue on whether the org is hiring you for a specific team, or just putting you in a pool of new hires to be farmed out as needed.
 
 **What’s your (or my future boss’) leadership style?**
 
@@ -205,6 +205,7 @@ Follow-ups:
 
 **When was the last time you promoted someone on your team? How did it happen?** How are they likely to handle it when you want a promotion?
 
+**Tell me about a time you supported a direct report leaving your team or company for the benefit of their own growth?** A supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up, even if that means moving you out.
 
 
 ## The Interview process
