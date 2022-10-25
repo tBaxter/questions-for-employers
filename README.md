@@ -87,11 +87,14 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **Tell me about a situation where someone raised a concern about DE&I or ethics?** How was it handled? If not, have there really not been any? Is management listening?
 
-**Tell me about the organization demographics, particularly leadership.** Bad orgs don’t know or get defensive; good orgs are open and transparent; great orgs share what they’re doing to improve.
+**Tell me about the organization leadership demographics. What specifically are you doing to drive greater diversity in management?** Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.
+
+Follow-up:
+- What benefits do you expect from increasing diversity among leadership?
 
 **Tell me about your effort to attract a diverse pool of candidates.**
 
-**Tell me about your efforts to _retain_ a diverse group of employees.** This one is particular useful when paired with the previous.
+**Tell me about your efforts to _retain_ a diverse group of employees.** This one is particularly useful when paired with the previous. Lots of companies try to recruit diverse candidates and then don't do much at all after that.
 
 **Tell me about a time when a challenge or suggestion from a person of color was acted on in their favor?** How long ago was that?
 
@@ -99,9 +102,6 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **What metrics are you currently using to track DE&I?**
 
-**What specifically are you doing to drive greater diversity in management?**
-
-**What benefits do you expect from increasing diversity among leadership?**
 
 **What benefits do you expect from increasing diversity across the org?** The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
 
