@@ -43,9 +43,7 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **How many hours a week does senior management work?** Do they put in 80-hour weeks? If so, run away.
 
-**What is the company’s policy on work/life balance?** How does that work out in practice?
-
-**How much vacation do people get?** If there's "unlimited" vacation, how much vacation do people normally take?
+**How much vacation do people get?** If there's "unlimited" vacation, how much vacation do people normally take? What is the expectation for "excessive" vacation? There is always a number.
 
 **What holidays are observed?** Some companies do not observe federal and state holidays. For parents, this can be a real problem since schools usually do. If so, you may have to use a vacation day for your child's holiday.
 
@@ -53,21 +51,17 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **Do people check in when they're on vacation?**
 
-**What is your remote work policy?** *Why* is that your remote work policy?
-
 **Does this position require travel? How often?** 
 
 **Is it possible to take sabbaticals or unpaid vacation?**
 
 **How many hours do people work in an average week?** Because seriously, if the job can't be done in 40 hours, something is probably wrong.
 
-**What is the rhythm to the work? Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
-
-**What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
-
 **What time do people normally leave work? What time do they normally start?**
 
 **Would I need to be on call? How often?**
+
+**What is the rhythm to the work? Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
 
 **How often are there emergencies or times when people have to work extra hours?** Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
 
@@ -75,12 +69,22 @@ Do they have one? How well-defined is it? Do they have a "buddy system" or other
 
 **Are the company’s managers inclined to call employees at home with questions or comments?** If so, that's bad. Doubly so if they'll call at night or weekends? 
 
-**How many layers of company managers or executives does one have to go through to get approval for a new idea?**
-
 **How are disagreements solved? What happens when personalities clash?** You're looking for a real, equitable and fair plan here, not a handwave-y answer.
 
 **Given everything you like about the company culture, what failure modes do you think that it creates? Are those potential failure modes or have you seen them happen? How do you try to guard against them?** Cultural choices can have downsides, too. If the person who's answering you has been in the company for a while and can't give you a good answer, either they're unwilling to give you bad news about the company, or they're not very thoughtful about the culture and its failure modes.[who](url)
 
+
+## Bureacracy
+
+**Walk me through the process of expensing a $[price] [item]** Choose the price and item -- that could be a $50 book or something larger. You're looking for a process that sounds reasonable and navigable for the price and item you chose. 
+
+**How many layers of company managers or executives does one have to go through to get approval for a new idea?**
+
+**What is the policy on alternate work schedules?** Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
+
+**What is your remote work policy?** *Why* is that your remote work policy?
+
+**What is the company’s policy on work/life balance?** How does that work out in practice?
 
 
 ## Diversity, equity, inclusion and ethics
@@ -101,7 +105,6 @@ Follow-up:
 **What happened the last time an employee who wasn't a white cisgender male critiqued something your organization had done?**
 
 **What metrics are you currently using to track DE&I?**
-
 
 **What benefits do you expect from increasing diversity across the org?** The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
 
