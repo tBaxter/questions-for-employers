@@ -13,7 +13,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 
 ## Getting started
 
-**What's the onboarding process like?**
+**What is the onboarding process like?**  
 Do they have one? How well-defined is it? Do they have a "buddy system" or other mechanisms to help you get ramped up, or do they just let you sink or swim?
 
 **In the first 60 to 90 days of employment, what would be my most urgent priorities?** Helpful for getting past the position description to the real expectations of the work. Plus [the first 90 days are critical](https://randsinrepose.com/archives/ninety-days/).
