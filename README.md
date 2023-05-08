@@ -24,7 +24,7 @@ What is the one thing I absolutely must get right the first year?**
 This one extends on the previous, looking longer term. This helps you get a sense of what your success criteria would be as well as how well the employer has defined the role. This one can also help get a better sense of the real priorities, which may differ from what the role description indicated. If they don't have clear answers to either of these questions, the role is probably poorly defined and not set up for success.
 
 **What does success look like *for your customers* for someone in this role?**  
-A great question to help get a sense of how user-focused the organization is.
+A good question to help get a sense of how user-focused the organization is.
 
 
 ## Culture
@@ -195,7 +195,9 @@ Follow-ups:
 
 **How does the company usually solve problems: through committee, group meetings, individual meetings or management only?** Helps get a sense of where they're at on the consensus-driven to top-down continuum.
 
-**How are important decisions made and communicated?**  Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
+**How are important decisions made and communicated?**  
+**How many people are directly or indirectly involved in creative decisions?**
+Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope/context?
 
 **How does sales / operations / technology / marketing / finance work around here?** Groups other than the one you’re interviewing for -- the interviewer should have familiarity with those groups, and should (hopefully) speak well of them.
 
@@ -287,30 +289,18 @@ Follow-ups:
 
 What information is shared with the employees (revenues, costs, operating metrics)? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
 
-Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left? 
-
-How many people are directly or indirectly involved in creative decisions?  
+Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?
 
 What kinds of tasks are routinely demanded of by management beyond the original job description? 
 
 Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?
 
 
-## Things to look for in real life
-
-* How is the office space physically organized?
-
-* Is it clean? Well kept?
-
-* Are employees expected to pay for basics (like coffee)?
-
-
-
 ## For engineering orgs
 
-**What version control system do you use? How do you track issues?** If the answer to either is "we don't", that's very bad.
-
-**What's the process for code review?** Bonus points if they can point to documented guidelines for behavior in code reviews.
+**What's the process for code review?** 
+**How do you think about code correctness?**
+Bonus points if they can point to documented guidelines for behavior in code reviews.
 
 **How do you make sure that all code is understood by more than one person?**
 
@@ -320,17 +310,26 @@ Does the company require a prospective employee to sign a non-complete contract?
 
 **Who is responsible for doing deployment? How often do you deploy?**
 
-**How do you think about code correctness?**
-
 **Is there a written roadmap all developers can see?** How far into the future does it extend? How closely is it followed?
 
-**How/when do developers talk to non-developers?** Is it easy to talk to the people who will be using your product?
-
-**Can I see some code the team I'm interviewing for has written?** From an open-source project, for example.
+**How/when do developers talk to non-developers?** How cross-functional are the teams? Is it easy to talk to the people who will be using your product?
 
 **What's your approach to technical debt?**
 
+**What version control system do you use? How do you track issues?** If the answer to either is "we don't", that's very bad.
+
 **Do you contribute to open source projects?** Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
+
+**Can I see some code the team I'm interviewing for has written?** From an open-source project, for example.
+
+
+## Things to look for in real life
+
+* How is the office space physically organized?
+
+* Is it clean? Well kept?
+
+* Are employees expected to pay for basics (like coffee)?
 
 ---------------
 
