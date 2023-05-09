@@ -10,7 +10,7 @@ I've broken them out by subject matter, with some notes on things to look for an
 
 And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
 
-===========================================
+--------------------------------------
 
 ## Table of contents
 - [Getting started](#getting-started)
@@ -26,7 +26,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 - [For engineering organizations](#for-engineering-organizations)
 - [Things to look for in real life](#things-to-look-for-in-real-life
 
-=============================================
+-----------------------------------
 
 ## Getting started
 
