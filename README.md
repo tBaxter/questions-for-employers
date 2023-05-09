@@ -24,7 +24,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 - [Performance evaluation](#performance-evaluation)
 - [Compensation](#compensation)
 - [For engineering organizations](#for-engineering-organizations)
-- [Things to look for in real life](#things-to-look-for-in-real-life
+- [Things to look for in real life](#things-to-look-for-in-real-life)
 
 -----------------------------------
 
