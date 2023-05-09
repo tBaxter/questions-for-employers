@@ -131,8 +131,11 @@ How does that work out in practice?
 **Is it easy to move to other divisions or offices?**  
 Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
 
-**What information is shared with the employees in terms of revenue, costs, operating metrics, etc? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?**
+**What information is shared with the employees in terms of revenue, costs, operating metrics, etc?**
+Is this an “open book” shop, or do they play it closer to the vest? How is information shared? How do you get access to the information you need to be successful?
 
+**Does the company require a prospective employee to sign a non-complete contract? If so, could you explain in a few words how restrictive it is.**
+Is it negotiable?
 
 
 ## Diversity, equity, inclusion and ethics
@@ -142,9 +145,7 @@ How was it handled? If not, have there really not been any? Is management listen
 
 **Tell me about the organization leadership demographics. What specifically are you doing to drive greater diversity in management?**  
 Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.
-
-Follow-up:
-- What benefits do you expect from increasing diversity among leadership?
+**Follow-up:** What benefits do you expect from increasing diversity among leadership?
 
 **Tell me about your effort to attract a diverse pool of candidates.**
 
@@ -164,13 +165,10 @@ The workplace may be challenging, but it should never be threatening. A manager 
 **How transparent is your salary and compensation data?**  
 Outside of government the answer will almost always be "not at all" but good orgs will at least understand why that's problematic and talk about how they deal with it.
 
-**Am I The Only One [in the demographic or under-represented group I identify as a member of]?  
+**Am I the only one [in the demographic or under-represented group I identify as a member of]?  
 If so, how do you plan to do to ensure that I am welcome, included and equal?**  
-
-Follow-up:  
-Where do you anticipate challenges?  
-
 Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
+**Follow-up:** Where do you anticipate challenges?  
 
 **Do you have a standard insurance package that covers trans health care?**  
 Even if you yourself might not use the insurance package, this still gives you good insight into their commitment to inclusion.
@@ -189,14 +187,12 @@ Does the team lacks diverse perspectives?
 **What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?** Useful for getting a sense of team morale and working conditions.
 
 **Is this a new role?** If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. If not, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you. This can be useful to understand how well-defined the position is and if it's a position set up for success.
-
-Follow-ups: 
+**Follow-ups:** 
 * If this is a replacement position, what happened to the former employee? How long were they in the role? 
 * If it's a new position, how is the company supporting it? What does success look like?
 
 **How does the organization reward employees?** Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
-
-Follow-ups: 
+**Follow-ups:** 
 * Why is that your reward system? 
 * If you could change any one thing about it, what would it be?
 
@@ -274,16 +270,7 @@ Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope
 **Tell me about a time you supported a direct report leaving your team or company for the benefit of their own growth?** A supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up, even if that means moving you out.
 
 
-## The Interview process
-
-**Can you tell me about how the interview process is structured?** How many interviews are there?
-
-**What’s the timeline for making a decision on this position?** When should I get back in touch with you?
-
-**Does the company require a prospective employee to sign a non-complete contract? If so, could you explain in a few words how restrictive it is. Is this non-compete contract negotiable?**
-
-
-## Performance 
+## Performance evaluation
 
 **How is performance evaluated?** What criteria does the company use for performance reviews? Are these criteria documented? If not, how do you ensure fair and equitable performance reviews?
 
