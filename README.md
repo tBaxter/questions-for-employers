@@ -15,7 +15,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 ## Table of contents
 - [Getting started](#getting-started)
 - [Culture](#culture)
-- [Work/life balance](#work-life-balance)
+- [Work/life balance](#worklife-balance)
 - [Bureacracy](#bureaucracy)
 - [Diversity, equity, inclusion and ethics](#diversity-equity-inclusion-and-ethics)
 - [Understanding the company and team](#understanding-the-company-and-team)
