@@ -1,14 +1,13 @@
 # Questions for potential employers
 
-This is a big collection of questions I've gathered over the years that have proven useful when interviewing.
+This is a big collection of questions I've gathered over the years that have proven to be useful when interviewing.
 Remember, in any interview you're trying to get to know the company and the people you might be working with as much as they're trying to get to know you. Maybe more.
 
-You wouldn't ask anyone all of these questions. Some of them are simple mechanics. Some of them are only appropriate for certain types of companies. Some of them help you most when you've already got a whiff of org smells. 
-They're all handy to have in your pocket, though. Usually, after you've read the role description and had a phone screen you should have a pretty good idea of which questions to highlight.
+There are a lot of questions here. You wouldn't ask anyone all of them. Some of them are simple mechanics. Some of them are only appropriate for certain types of companies. Some of them help you most when you've already got a whiff of org smells. Usually, after you've read the role description and had a phone screen you should have a pretty good idea of which questions to highlight.
 
 I've broken them out by subject matter, with some notes on things to look for and avoid.
 
-And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
+And if you'd like more questions for director-and-above positions, [Jacob Kaplan-Moss has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
 
 --------------------------------------
 
