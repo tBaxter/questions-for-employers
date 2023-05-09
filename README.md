@@ -15,6 +15,7 @@ And if you'd like more questions for director-and-above positions, [Jacobian has
 ## Table of contents
 - [Getting started](#getting-started)
 - [Culture](#culture)
+- [Work/life balance](#work-life-balance)
 - [Bureacracy](#bureaucracy)
 - [Diversity, equity, inclusion and ethics](#diversity-equity-inclusion-and-ethics)
 - [Understanding the company and team](#understanding-the-company-and-team)
@@ -46,17 +47,16 @@ A good question to help get a sense of how user-focused the organization is.
 
 ## Culture
 **What type of people are successful here? What type of people are not?**  
+**Alternate: What characteristics do the people who are most celebrated have in common with each other?
+Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?**
 Pay close attention to this one. You can potentially pick up a lot of red flags for homogenous, non-inclusive, bro-type cultures. The phrase "culture fit" itself can be a warning sign.
 
 **How do you determine if someone is a poor fit for the company?**  
 Same as above, they may tell you more than they mean to about what they value (and what they don't).
 
-**What characteristics do the people who are most celebrated have in common with each other? 
-Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?**
-
 **If an employee does something harmful that isn't a fireable offense, how do you handle that?  
 What steps do you take to create a culture of accountability?**  
-They absolutely should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are not being addressed.
+They should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are probably not being addressed.
 
 **Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?**  
 You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
@@ -67,41 +67,10 @@ This can be a *really* telling question. Are company communications scattered? L
 **Are there catered suppers?**  
 This sounds good. It's not. In any properly functioning organization, you should be home for supper.
 
-**How many hours a week does senior management work?**
-Do they put in 80-hour weeks? If so, run away.
-
-**How much vacation do people get?**  
-If there's "unlimited" vacation, how much vacation do people normally take? What is the expectation for "excessive" vacation? There is always a number.
-
-**What holidays are observed?**  
-Some companies do not observe federal and state holidays. For parents, this can be a real problem since schools usually do. If so, you may have to use a vacation day for your child's holiday.
-
-**How many hours do people work in an average week?  
-What time do people normally leave work? What time do they normally start? 
-Do people work on the weekend?**
-Seriously, if the job can't be done in 40 hours, something is probably wrong.
-
-**Do people check in when they're on vacation?**
-
-**What kinds of tasks are routinely demanded of by management beyond the original job description?**
-
-**Does this position require travel? How often?** 
-
 **Is it possible to take sabbaticals or unpaid vacation?**
-
-**Would I need to be on call? How often?**
-
-**What is the rhythm to the work? 
-Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
-
-**How often are there emergencies or times when people have to work extra hours?**  
-Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
 
 **What is your turnover rate?**  
 How many people were hired last year and how many left? Over the past 2-3 years? What is the average time people stay? What are you doing to improve retention?
-
-**Are the company’s managers inclined to call employees at home with questions or comments?**  
-If so, that's bad. Doubly so if they'll call at night or weekends? 
 
 **How are disagreements solved? What happens when personalities clash?**  
 You're looking for a real, equitable and fair plan here, not a handwave-y answer.
@@ -111,6 +80,38 @@ What failure modes do you think your culture creates?
 Are those potential failure modes or have you seen them happen? How do you try to guard against them?**  
 Cultural choices can have downsides, too. If the person who's answering you has been in the company for a while and can't give you a good answer, either they're unwilling to give you bad news about the company, or they're not very thoughtful about the culture and its failure modes.  
 
+
+## Work/life balance
+
+**How many hours a week does senior management work?**
+Do they put in 80-hour weeks? If so, run away.
+
+**How much vacation do people get?**  
+If there's "unlimited" vacation, how much vacation do people normally take? What is the expectation for "excessive" vacation? There is always a number.
+
+**What holidays are observed?**  
+Some companies do not observe federal and state holidays. For parents, this can be a real problem since schools usually do. If so, you may have to use a vacation day for your child's holiday.
+
+**Does this position require travel? How often?** 
+**How many hours do people work in an average week?  
+What time do people normally leave work? What time do they normally start? 
+Do people work on the weekend?**
+Seriously, if the job can't be done in 40 hours, something is probably wrong.
+
+**Do people check in when they're on vacation?**
+
+**What kinds of tasks are routinely demanded of by management beyond the original job description?**
+
+**Would I need to be on call? How often?**
+
+**What is the rhythm to the work? 
+Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?**
+
+**How often are there emergencies or times when people have to work extra hours?**  
+Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
+
+**Are the company’s managers inclined to call employees at home with questions or comments?**  
+If so, that's bad. Doubly so if they'll call at night or weekends? 
 
 ## Bureacracy
 
