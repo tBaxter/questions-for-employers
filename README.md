@@ -9,12 +9,24 @@ They're all handy to have in your pocket, though. Usually, after you've read the
 I've broken them out by subject matter, with some notes on things to look for and avoid.
 
 And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
+
 ===========================================
+
 ## Table of contents
-- [Getting Started](#getting-started)
+- [Getting started](#getting-started)
 - [Culture](#culture)
 - [Bureacracy](#bureaucracy)
-- 
+- [Diversity, equity, inclusion and ethics](#diversity-equity-inclusion-and-ethics)
+- [Understanding the company and team](#understanding-the-company-and-team)
+- [Leadership](#leadership)
+- [Doing the work](#doing-the-work)
+- [Career development](#career-development)
+- [Performance evaluation](#performance-evaluation)
+- [Compensation](#compensation)
+- [For engineering organizations](#for-engineering-organizations)
+- [Things to look for in real life](#things-to-look-for-in-real-life
+
+=============================================
 
 ## Getting started
 
@@ -39,6 +51,9 @@ Pay close attention to this one. You can potentially pick up a lot of red flags 
 **How do you determine if someone is a poor fit for the company?**  
 Same as above, they may tell you more than they mean to about what they value (and what they don't).
 
+**What characteristics do the people who are most celebrated have in common with each other? 
+Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?**
+
 **If an employee does something harmful that isn't a fireable offense, how do you handle that?  
 What steps do you take to create a culture of accountability?**  
 They absolutely should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are not being addressed.
@@ -46,13 +61,13 @@ They absolutely should have a plan for this. If they don't, any number of toxic-
 **Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?**  
 You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
 
-**How does internal communication work? How does the company communicate with itself, and is that effective**  
+**How does internal communication work? How does the company communicate with itself, and is that effective?**  
 This can be a *really* telling question. Are company communications scattered? Leaked out? Top down? How does it work? Does it work? 
 
 **Are there catered suppers?**  
 This sounds good. It's not. In any properly functioning organization, you should be home for supper.
 
-**How many hours a week does senior management work?**  
+**How many hours a week does senior management work?**
 Do they put in 80-hour weeks? If so, run away.
 
 **How much vacation do people get?**  
@@ -63,10 +78,12 @@ Some companies do not observe federal and state holidays. For parents, this can 
 
 **How many hours do people work in an average week?  
 What time do people normally leave work? What time do they normally start? 
-Do people work on the weekend?**   
+Do people work on the weekend?**
 Seriously, if the job can't be done in 40 hours, something is probably wrong.
 
 **Do people check in when they're on vacation?**
+
+**What kinds of tasks are routinely demanded of by management beyond the original job description?**
 
 **Does this position require travel? How often?** 
 
@@ -113,6 +130,9 @@ How does that work out in practice?
 
 **Is it easy to move to other divisions or offices?**  
 Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
+
+**What information is shared with the employees in terms of revenue, costs, operating metrics, etc? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?**
+
 
 
 ## Diversity, equity, inclusion and ethics
@@ -207,7 +227,6 @@ Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope
 **How does sales / operations / technology / marketing / finance work around here?** Groups other than the one you’re interviewing for -- the interviewer should have familiarity with those groups, and should (hopefully) speak well of them.
 
 
-
 ## Leadership
 
 **Do managers regularly hold 1:1s?** What about skip levels? What sort of topics are discussed?
@@ -238,7 +257,6 @@ Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope
 **What kind of tools are provided by management to help an me do my job?** (machinery, computers, office supplies, etc.)?  How often is this equipment updated?
 
 
-
 ## Career development
 
 **Are employees encouraged to go speak at conferences?** Do you cover travel to conferences? 
@@ -262,6 +280,7 @@ Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope
 
 **What’s the timeline for making a decision on this position?** When should I get back in touch with you?
 
+**Does the company require a prospective employee to sign a non-complete contract? If so, could you explain in a few words how restrictive it is. Is this non-compete contract negotiable?**
 
 
 ## Performance 
@@ -288,17 +307,6 @@ Are they dictated top down? Are ideas from anyone welcomed? If so, in what scope
 **Is there a company/employee bonus structure and if so, how does it work?**
 
 **How often do you offer above asking?** Can you speak with someone who got such an offer?
-
-
-## More 
-
-What information is shared with the employees (revenues, costs, operating metrics)? Is this an “open book” shop, or do you play it closer to the vest? How is information shared? How do I get access to the information I need to be successful in this job?
-
-Who are the heroes at your company? What characteristics do the people who are most celebrated have in common with each other? Conversely, what are the characteristics that are common to the promising people you hired, but who then flamed out and failed or left?
-
-What kinds of tasks are routinely demanded of by management beyond the original job description? 
-
-Does the company require a prospective employee to sign a non-complete contract? If so, in a few words please explain how restrictive it is. Is this non-compete contract negotiable?
 
 
 ## For engineering orgs
