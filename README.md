@@ -9,7 +9,12 @@ They're all handy to have in your pocket, though. Usually, after you've read the
 I've broken them out by subject matter, with some notes on things to look for and avoid.
 
 And if you'd like more questions for director-and-above positions, [Jacobian has a great list](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/).
-
+===========================================
+## Table of contents
+- [Getting Started](#getting-started)
+- [Culture](#culture)
+- [Bureacracy](#bureaucracy)
+- 
 
 ## Getting started
 
