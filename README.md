@@ -134,7 +134,7 @@ Warning: the interviewer could infer that you are a difficult teammate and like 
 **What information is shared with the employees in terms of revenue, costs, operating metrics, etc?**
 Is this an “open book” shop, or do they play it closer to the vest? How is information shared? How do you get access to the information you need to be successful?
 
-**Does the company require a prospective employee to sign a non-complete contract? If so, could you explain in a few words how restrictive it is.**
+**Does the company require a prospective employee to sign a non-compete contract? If so, could you explain in a few words how restrictive it is.**
 Is it negotiable?
 
 
