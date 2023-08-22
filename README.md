@@ -23,7 +23,7 @@ And if you'd like more questions for director-and-above positions, [Jacob Kaplan
 - [Career development](#career-development)
 - [Performance evaluation](#performance-evaluation)
 - [Compensation](#compensation)
-- [For engineering organizations](#for-engineering-organizations)
+- [For engineering organizations](#for-engineering-orgs)
 - [Things to look for in real life](#things-to-look-for-in-real-life)
 
 -----------------------------------
