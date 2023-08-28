@@ -15,7 +15,7 @@ And if you'd like more questions for director-and-above positions, [Jacob Kaplan
 - [Getting started](#getting-started)
 - [Culture](#culture)
 - [Work/life balance](#worklife-balance)
-- [Bureacracy](#bureaucracy)
+- [Bureaucracy](#bureaucracy)
 - [Diversity, equity, inclusion and ethics](#diversity-equity-inclusion-and-ethics)
 - [Understanding the company and team](#understanding-the-company-and-team)
 - [Leadership](#leadership)
@@ -112,7 +112,7 @@ Should be near zero. If not, it's probably a sign of either faulty DevOps or fau
 **Are the company’s managers inclined to call employees at home with questions or comments?**  
 If so, that's bad. Doubly so if they'll call at night or weekends? 
 
-## Bureacracy
+## Bureaucracy
 
 **Walk me through the process of expensing a $[price] [item]**  
 Choose the price and item -- that could be a $50 book or something larger. You're looking for a process that sounds reasonable and navigable for the price and item you chose. 
@@ -120,7 +120,7 @@ Choose the price and item -- that could be a $50 book or something larger. You'r
 **How many layers of company managers or executives does one have to go through to get approval for a new idea?**
 
 **What is the policy on alternate work schedules?**  
-Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
+Is variability okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
 **What is your remote work policy?**  
 *Why* is that your remote work policy?
