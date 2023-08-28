@@ -120,7 +120,7 @@ Choose the price and item -- that could be a $50 book or something larger. You'r
 **How many layers of company managers or executives does one have to go through to get approval for a new idea?**
 
 **What is the policy on alternate work schedules?**  
-Is variablity okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
+Is variability okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
 **What is your remote work policy?**  
 *Why* is that your remote work policy?
