@@ -82,19 +82,19 @@ Even great cultural choices have downsides. If the person who's answering you ha
 
 ## Work/life balance
 
-**How many hours a week does senior management work?**
+**How many hours a week does senior management work?**   
 Do they put in 80-hour weeks? If so, run away.
 
-**How much vacation do people get?**  
+**How much vacation do people get?**   
 If there's "unlimited" vacation, how much vacation do people normally take? What is the expectation for "excessive" vacation? There is always a number.
 
-**What holidays are observed?**  
+**What holidays are observed?**   
 Some companies do not observe federal and state holidays. For parents, this can be a real problem since schools usually do. If so, you may have to use a vacation day for your child's holiday.
 
-**Does this position require travel? How often?**
+**Does this position require travel? How often?**   
 This should have been in the job post, but if it wasn't, ask about it and think about how it fits with your lifestlye and commitments. Some folks are fine being road warriors, but if you've got kids or other commitments at home, it can be difficult.
 
-**Would I need to be on call? How often?**
+**Would I need to be on call? How often?**   
 Another nuts-and-bolts question, but on-call rotations can be tough. While you're asking, consider asking of being on-call comes with extra compensation.
 
 **How many hours do people work in an average week?  
@@ -102,45 +102,46 @@ What time do people normally leave work? What time do they normally start?
 Do people work on the weekend?**
 Seriously, if the job can't be done in 40 hours, something is probably wrong.
 
-**Do people check in when they're on vacation?**
+**Do people check in when they're on vacation?**  
 They shouldn't.
 
-**What kinds of tasks are routinely demanded of by management beyond the original job description?**
+**What kinds of tasks are routinely demanded of by management beyond the original job description?**  
 This can be a bit confrontational. Be careful with it.
 
-**What is the rhythm to the work?**
+**What is the rhythm to the work?**  
 Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?
 
-**How often are there emergencies or times when people have to work extra hours?**  
+**How often are there emergencies or times when people have to work extra hours?**   
 Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
 
-**Are the company’s managers inclined to call employees at home with questions or comments?**  
+**Are the company’s managers inclined to call employees at home with questions or comments?**   
 If so, that's bad. Doubly so if they'll call at night or weekends? 
+
 
 ## Bureaucracy
 
-**Walk me through the process of expensing a $[price] [item]**  
+**Walk me through the process of expensing a $[price] [item]**   
 Choose the price and item -- that could be a $50 book or something larger. You're looking for a process that sounds reasonable and navigable for the price and item you chose. 
 
-**How many layers of company managers or executives does one have to go through to get approval for a new idea?**
+**How many layers of company managers or executives does one have to go through to get approval for a new idea?**  
 The more layers, the more difficult and time consuming it will be. Well-defined process can mitigate the difficulty, but it is still a good indicator of overall bureaucracy and speed.
 
-**What is the policy on alternate work schedules?**  
+**What is the policy on alternate work schedules?**   
 Is variability okay, or is everyone expected to be on the same schedule? In modern orgs, especially distributed orgs, asking everyone to punch the clock at the same time is backwards, at best.
 
-**What is your remote work policy?**  
+**What is your remote work policy?**   
 *Why* is that your remote work policy?
 
-**What is the company’s policy on work/life balance?**  
+**What is the company’s policy on work/life balance?**   
 How does that work out in practice?
 
-**Is it easy to move to other divisions or offices?**  
+**Is it easy to move to other divisions or offices?**   
 Warning: the interviewer could infer that you are a difficult teammate and like to jump around.
 
-**What information is shared with the employees in terms of revenue, costs, operating metrics, etc?**
+**What information is shared with the employees in terms of revenue, costs, operating metrics, etc?**  
 Is this an “open book” shop, or do they play it closer to the vest? How is information shared? How do you get access to the information you need to be successful?
 
-**Does the company require a prospective employee to sign a non-compete contract? If so, could you explain in a few words how restrictive it is.**
+**Does the company require a prospective employee to sign a non-compete contract? If so, could you explain in a few words how restrictive it is.**  
 Is it negotiable?
 
 
@@ -153,7 +154,7 @@ How was it handled? If not, have there really not been any? Is management listen
 Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.
 **Follow-up:** What benefits do you expect from increasing diversity among leadership?
 
-**Tell me about your effort to attract a diverse pool of candidates.** 
+**Tell me about your effort to attract a diverse pool of candidates.**  
 What metrics are they currently using to track DE&I?
 
 **Tell me about your efforts to _retain_ a diverse group of employees.**  
@@ -182,31 +183,31 @@ Does the team lacks diverse perspectives?
 
 ## Understanding the company and team
 
-**How are your teams structured? What is the management structure like?**
+**How are your teams structured? What is the management structure like?**   
 Pay particular attention if you have any questions about reporting or power structures. Get clarity.
 
-**What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?**  
+**What’s the biggest challenge the team has gone through in the last year? Does the team currently feel optimistic about what's next?**   
 Useful for getting a sense of team morale and working conditions.
 
-**Is this a new role?**  
+**Is this a new role?**   
 If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. This can be useful to understand how well-defined the position is and if it's a position set up for success. If it is not a new role, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you. 
 **Follow-ups:** 
 * If this is a replacement position, what happened to the former employee? How long were they in the role? 
 * If it's a new position, how is the company supporting it? What does success look like?
 
-**How does the organization reward employees?**  
+**How does the organization reward employees?**   
 Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
 **Follow-ups:** 
 * Why is that your reward system? 
 * If you could change any one thing about it, what would it be?
 
-**What has you most worried?**   
+**What has you most worried?**    
 What keeps you up at night? A competitor? Something else?
 
-**What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?**
+**What’s one thing that’s key to this company’s success that somebody from outside the company wouldn’t know about?**  
 Can help you set priorities as you onboard.
 
-**What do you wish you had known when you joined this company?**
+**What do you wish you had known when you joined this company?**  
 Can tell you a lot about the culture or challenges.
 
 **What would you say are the company’s strengths?**   
@@ -246,7 +247,7 @@ What about skip levels? What sort of topics are discussed?
 **Who would I directly report to?**  
 In some cases, this question can help you get a better sense of the org chart and where you'd be on it. It can also be a clue on whether the org is hiring you for a specific team, or just putting you in a pool of new hires to be farmed out as needed.
 
-**What’s your (or my future boss’) leadership style?**
+**What’s your (or my future boss’) leadership style?**  
 Is that style aligned with what you're looking for in a manager?
 
 **How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?**   
@@ -264,7 +265,7 @@ Hopefully, you don't get a blank stare.
 **How often do inexperienced people get to work directly with more experienced people?**   
 And how so? Pairing, or something else? How does it work?
 
-**How do you balance support and feature development?**
+**How do you balance support and feature development?**  
 
 **Tell me about your cross-functional teams**  
 Do they have dedicated designers? Product owners? QA? Technical writer? Dev manager? How cross-functional teams are built tells you a lot about what the company values enough to put on the team.
@@ -272,9 +273,10 @@ Do they have dedicated designers? Product owners? QA? Technical writer? Dev mana
 **How often do you have meetings? Are there scheduled/standing meetings? How much time should I expect to be in meetings**  
 Remember, though, that for some positions (especially senior positions) meetings are a core component of the job.
 
-**When something goes wrong, how do you handle it?**
+**When something goes wrong, how do you handle it?**  
 
-**What kind of tools are provided by management to help an me do my job?** (machinery, computers, office supplies, etc.)?  How often is this equipment updated?
+**What kind of tools are provided by management to help an me do my job?** (machinery, computers, office supplies, etc.)?    
+How often is this equipment updated?
 
 
 ## Career development
@@ -285,11 +287,11 @@ Do you cover travel to conferences?
 **Does your company support continuing education?**   
 If so, how (and how much?)
 
-**In what other ways do you support career development?**
+**In what other ways do you support career development?**  
 
-**Does the company routinely provide training, either internal or external, for new technologies such as software updates or best practices?**
+**Does the company routinely provide training, either internal or external, for new technologies such as software updates or best practices?**  
 
-**Does the company allow employees to pursue their own training path**  
+**Does the company allow employees to pursue their own training path**   
 To what extent?
 
 **When was the last time you promoted someone on your team? How did it happen?**   
@@ -304,9 +306,9 @@ A supportive manager cares about your goals, not gluing you to your seat. The ve
 **How is performance evaluated?**    
 What criteria does the company use for performance reviews? Are these criteria documented? If not, how do you ensure fair and equitable performance reviews?
 
-**How often can I expect job performance to be reviewed by management?**
+**How often can I expect job performance to be reviewed by management?**  
 
-**Are raises based solely on job performance reviews? If not, what else is a factor?**
+**Are raises based solely on job performance reviews? If not, what else is a factor?**  
 
 **Do you stack-rank employees?**   
 If yes, this should be a big red flag, it means the company may say "we only hire the best" but then they'll treat at least half of them as under-performers, by design.
@@ -316,7 +318,7 @@ If yes, this should be a big red flag, it means the company may say "we only hir
 
 
 ## Compensation
-**If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?** 
+**If this is an exempt (salaried) position how much overtime do you assume I would put in without compensation?**   
 
 **If this is an exempt (salaried) position, am I required to track all my time?**   
 If so, how? And if it's not hourly, why?
@@ -332,18 +334,18 @@ Can you speak with someone who got such an offer?
 ## For engineering orgs
 
 **What's the process for code review?** 
-**How do you think about code correctness?**
+**How do you think about code correctness?**  
 Bonus points if they can point to documented guidelines for behavior in code reviews.
 
-**How do you make sure that all code is understood by more than one person?**
+**How do you make sure that all code is understood by more than one person?**  
 
-**How do you find bugs in your team's code?** 
+**How do you find bugs in your team's code?**   
 Testing? Something else?
 
 **What happens when you find a serious bug in production code?**   
 If they say this doesn't happen, that's a warning sign.
 
-**Who is responsible for doing deployment? How often do you deploy?**
+**Who is responsible for doing deployment? How often do you deploy?**  
 
 **Is there a written roadmap all developers can see?**    
 How far into the future does it extend? How closely is it followed?
