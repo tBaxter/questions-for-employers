@@ -66,7 +66,7 @@ You should hear something about rotation of duties or location, sabbaticals, etc
 This can be a *really* telling question. Are company communications scattered? Leaked out? Top down? How does it work? Does it work? 
 
 **Are there catered suppers?**  
-This sounds good. It's not. In any properly functioning organization, you should be home for supper.
+This may sound like a nice perk, but you may want to learn more about why it's necessary. In a properly functioning organization with normal 8-5 or 9-5 hours, you should be home for supper. In crunch times it's nice when the organization brings in some decent food, but does the org find itself in crunch times all the time? If so, why?
 
 **What is your turnover rate?**  
 How many people were hired last year and how many left? Over the past 2-3 years? What is the average time that people stay at the company? Attrition is one of the strongest tells that a culture is bad. If more than 30% of the company left in the past year, that's a real problem. What is the company doing about it?
@@ -112,7 +112,7 @@ This can be a bit confrontational. Be careful with it.
 Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?
 
 **How often are there emergencies or times when people have to work extra hours?**   
-Should be near zero. If not, it's probably a sign of either faulty DevOps or faulty management.
+For most orgs, the number of emergencies and unplanned extra hours should be near zero. Generally speaking, emergencies indicate either faulty DevOps or faulty management. There are times and places where extra hours should be expected -- if you're involved in taxes in the U.S. in any way, you know April is busy, for example -- so it's worthwhile to differentiate planned extra hours from unplanned. 
 
 **Are the company’s managers inclined to call employees at home with questions or comments?**   
 If so, that's bad. Doubly so if they'll call at night or weekends? 
@@ -254,7 +254,7 @@ Is that style aligned with what you're looking for in a manager?
 Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
 
 **How do you nurture psychological safety in your team?**
-Hopefully, you don't get a blank stare.
+The best organizations have probably spent considerable time thinking meaningfully about how they foster psychological safety on their teams and can readily articulate actions they've taken. Plenty of good organizations may not have thought about it in those terms -- they may lack the vocabulary -- but when prompted can still articulate what they've done. However, if get a blank stare or dismissiveness, even after prompting, that can indicate a toxic or hostile environment.
 
 
 
@@ -304,14 +304,14 @@ A supportive manager cares about your goals, not gluing you to your seat. The ve
 ## Performance evaluation
 
 **How is performance evaluated?**    
-What criteria does the company use for performance reviews? Are these criteria documented? If not, how do you ensure fair and equitable performance reviews?
+What criteria does the company use for performance reviews? On what cycle? Are these criteria documented? If not, how do you ensure fair and equitable performance reviews?
 
 **How often can I expect job performance to be reviewed by management?**  
 
 **Are raises based solely on job performance reviews? If not, what else is a factor?**  
 
-**Do you stack-rank employees?**   
-If yes, this should be a big red flag, it means the company may say "we only hire the best" but then they'll treat at least half of them as under-performers, by design.
+**Do you stack-rank employees? Can you tell me how your stack ranking process works?**   
+Most times, this should be a big red flag. "Stack ranking" usually means the company smooshes everyone into a bell curve, and the people who find themselves at the wrong end of the bell curve are now "underperformers" no matter how great they may be. In other words, stack ranking companies may say "we only hire the best" but then they'll treat at least half of their employees as under-performers, by design. Note that there are companies that employ some other sorting methods they may call "stack ranking", so it's important to be sure you're working from the same definition.
 
 **Can you tell me about a time when you've had to let someone go?**
 
