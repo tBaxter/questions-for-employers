@@ -97,16 +97,14 @@ This should have been in the job post, but if it wasn't, ask about it and think 
 **Would I need to be on call? How often?**   
 Another nuts-and-bolts question, but on-call rotations can be tough. While you're asking, consider asking of being on-call comes with extra compensation.
 
-**How many hours do people work in an average week?  
-What time do people normally leave work? What time do they normally start? 
-Do people work on the weekend?**
-Seriously, if the job can't be done in 40 hours, something is probably wrong.
+**How many hours do people work in an average week? What time do people normally leave work? What time do they normally start? Do people work on the weekend?**
+Seriously, if the job can't be done in 40 hours, more or less, something is probably wrong.
 
 **Do people check in when they're on vacation?**  
-They shouldn't.
+They shouldn't, and they shouldn't be expected to. Take the vacation.
 
 **What kinds of tasks are routinely demanded of by management beyond the original job description?**  
-This can be a bit confrontational. Be careful with it.
+This can be a bit confrontational, or can sound like you want to do nothing more than what's explicitly in the job description. Be careful with it. Still, it can be useful if you're concerned you may be asked to walk your manager's dog or something weird.
 
 **What is the rhythm to the work?**  
 Is there a time that's “all hands on deck” and everyone pulls all-nighters, or is it pretty consistent throughout the year?
@@ -115,13 +113,13 @@ Is there a time that's “all hands on deck” and everyone pulls all-nighters, 
 For most orgs, the number of emergencies and unplanned extra hours should be near zero. Generally speaking, emergencies indicate either faulty DevOps or faulty management. There are times and places where extra hours should be expected -- if you're involved in taxes in the U.S. in any way, you know April is busy, for example -- so it's worthwhile to differentiate planned extra hours from unplanned. 
 
 **Are the company’s managers inclined to call employees at home with questions or comments?**   
-If so, that's bad. Doubly so if they'll call at night or weekends? 
+If so, that could be an indicator of poor boundaries or a poor work-life balance. Or it could just be a busy boss trying to catch up with you. Use your judgement and ask follow-up questions if you're concerned.
 
 
 ## Bureaucracy
 
 **Walk me through the process of expensing a $[price] [item]**   
-Choose the price and item -- that could be a $50 book or something larger. You're looking for a process that sounds reasonable and navigable for the price and item you chose. 
+Choose an item and price -- that could be a $50 book or something larger, it doesn't matter.  What you're looking for here is a process that sounds reasonable and navigable for the price and item you chose. 
 
 **How many layers of company managers or executives does one have to go through to get approval for a new idea?**  
 The more layers, the more difficult and time consuming it will be. Well-defined process can mitigate the difficulty, but it is still a good indicator of overall bureaucracy and speed.
@@ -145,22 +143,22 @@ Is this an “open book” shop, or do they play it closer to the vest? How is i
 Is it negotiable?
 
 
-## Diversity, equity, inclusion and ethics
+## Diversity, equity, inclusion, belonging, and ethics
 
 **Tell me about a situation where someone raised a concern about DE&I or ethics?**  
-How was it handled? If not, have there really not been any? Is management listening?
+How was it handled? If not, have there really not been any? Is management listening?  
 
 **Tell me about the organization leadership demographics. What specifically are you doing to drive greater diversity in management?**  
 Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.
 **Follow-up:** What benefits do you expect from increasing diversity among leadership?
 
 **Tell me about your effort to attract a diverse pool of candidates.**  
-What metrics are they currently using to track DE&I?
+What metrics are they currently using to track DE&I in hiring?  
 
 **Tell me about your efforts to _retain_ a diverse group of employees.**  
 This is a particularly useful question. Lots of companies try to recruit diverse candidates and then don't do much at all after that to keep them. Again, what are the metrics they're using to track this?
 
-**Tell me about a time when a challenge or suggestion from a person of color was acted on in their favor?**  
+**Tell me about a time when a challenge or suggestion from an under-represented group was acted on in their favor?**  
 How long ago was that?
 
 **How transparent is your salary and compensation data?**  
