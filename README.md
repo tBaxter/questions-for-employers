@@ -248,6 +248,12 @@ In some cases, this question can help you get a better sense of the org chart an
 **What’s your (or my future boss’) leadership style?**  
 Is that style aligned with what you're looking for in a manager?
 
+**How does management handle feedback from employees?**
+You want to hear about both processes and methods for taking feedback, but also how _well_ do they do it.
+**Follow-ups:**   
+- How evenly is that distributed across departments? (Some departments seem to be consistently better at taking feedback. HR, for example, appears to be uncommonly bad at it, for inexplicable reasons)
+- What strategies does the company employ to ensure open and transparent communication at all levels?
+
 **How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?**   
 Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
 
@@ -295,8 +301,8 @@ To what extent?
 **When was the last time you promoted someone on your team? How did it happen?**   
 How are they likely to handle it when you want a promotion?
 
-**Tell me about a time you supported a direct report leaving your team or company for the benefit of their own growth?**   
-A supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up, even if that means moving you out.
+**Tell me about a time you supported a direct report _leaving your team_ or company for the benefit of their own growth?**   
+Most any manager should be able to tell a story about when they directly supported an employee's personal or professional growth. A truly supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up, even if that means moving you out of their team, and they'll help you get there.
 
 
 ## Performance evaluation
