@@ -95,10 +95,12 @@ Some companies do not observe federal and state holidays. For parents, this can 
 This should have been in the job post, but if it wasn't, ask about it and think about how it fits with your lifestlye and commitments. Some folks are fine being road warriors, but if you've got kids or other commitments at home, it can be difficult.
 
 **Would I need to be on call? How often?**   
-Another nuts-and-bolts question, but on-call rotations can be tough. While you're asking, consider asking of being on-call comes with extra compensation.
+Another nuts-and-bolts question, but on-call rotations can be tough. While you're asking, consider asking if being on-call comes with extra compensation.    
+**Follow-ups**:  
+- If there is an on-call rotation, what is the training program like?** On-call rotations can be intimidating for new developers, so there should be training programs or procedures they can speak to during the interview process.
 
 **How many hours do people work in an average week? What time do people normally leave work? What time do they normally start? Do people work on the weekend?**
-Seriously, if the job can't be done in 40 hours, more or less, something is probably wrong.
+Seriously, unless there are unusual extenuating circumstances, the work should take 40 hours, more or less. If not, something is probably wrong.
 
 **Do people check in when they're on vacation?**  
 They shouldn't, and they shouldn't be expected to. Take the vacation.
