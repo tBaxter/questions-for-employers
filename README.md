@@ -96,7 +96,6 @@ This should have been in the job post, but if it wasn't, ask about it and think 
 
 **Would I need to be on call? How often?**   
 Another nuts-and-bolts question, but on-call rotations can be tough. While you're asking, consider asking if being on-call comes with extra compensation.
-
 **Follow-ups**:  
 - If there is an on-call rotation, what is the training program like?**```
 
