@@ -59,7 +59,7 @@ What steps do you take to create a culture of accountability?**
 They should have a plan for this. If they don't, any number of toxic-but-not-fireable behaviors are probably not being addressed.
 
 **Is there any sort of institutionalized way of dealing with plateauing or preventing burnout?**  
-You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.
+You should hear something about rotation of duties or location, sabbaticals, etc. In other words, a real plan for avoiding burnout, not empty platitudes.   
 **Follow-up:** Is it possible to take sabbaticals or unpaid vacation? 
 
 **How does internal communication work? How does the company communicate with itself, and is that effective?**  
@@ -149,7 +149,7 @@ Is it negotiable?
 How was it handled? If not, have there really not been any? Is management listening?  
 
 **Tell me about the organization leadership demographics. What specifically are you doing to drive greater diversity in management?**  
-Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.
+Bad orgs don’t know or get defensive; good orgs are open and transparent; the best orgs share what they’re doing to improve.   
 **Follow-up:** What benefits do you expect from increasing diversity among leadership?
 
 **Tell me about your effort to attract a diverse pool of candidates.**  
@@ -166,7 +166,7 @@ Not long ago, most orgs did not share salary and compensation info at all. State
 
 **Am I the only one [in the demographic or under-represented group I identify as a member of]?  
 If so, how do you plan to do to ensure that I am welcome, included and equal?**  
-Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"
+Incorrect answers include blinking in confusion, saying "everything's fine and we don't see why we'd have to do anything in particular", and "you're not the only one; we have a [person] in a $other_role!"   
 **Follow-up:** Where do you anticipate challenges?  
 
 **Do you have a standard insurance package that covers trans health care?**  
@@ -188,13 +188,13 @@ Pay particular attention if you have any questions about reporting or power stru
 Useful for getting a sense of team morale and working conditions.
 
 **Is this a new role?**   
-If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. This can be useful to understand how well-defined the position is and if it's a position set up for success. If it is not a new role, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you. 
+If so, follow up with more questions about how the company plans to get buy-in for this new role and support the people in it. This can be useful to understand how well-defined the position is and if it's a position set up for success. If it is not a new role, see if you can learn more about why the person left. Best case is they were promoted up, meaning this role can lead to similar opportunities for you.   
 **Follow-ups:** 
 * If this is a replacement position, what happened to the former employee? How long were they in the role? 
 * If it's a new position, how is the company supporting it? What does success look like?
 
 **How does the organization reward employees?**   
-Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?
+Is it a star system / team-oriented / equity-based / bonus-based / golf-clap-based? Does it reward individual performance? Team performance? Is the reward tangible and real? How does the company demonstrate to an employee that they are an asset to the company?   
 **Follow-ups:** 
 * Why is that your reward system? 
 * If you could change any one thing about it, what would it be?
@@ -249,7 +249,7 @@ In some cases, this question can help you get a better sense of the org chart an
 Is that style aligned with what you're looking for in a manager?
 
 **How does management handle feedback from employees?**
-You want to hear about both processes and methods for taking feedback, but also how _well_ do they do it.
+You want to hear about both processes and methods for taking feedback, but also how _well_ do they do it.   
 **Follow-ups:**   
 - How evenly is that distributed across departments? (Some departments seem to be consistently better at taking feedback. HR, for example, appears to be uncommonly bad at it, for inexplicable reasons)
 - What strategies does the company employ to ensure open and transparent communication at all levels?
