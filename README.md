@@ -259,10 +259,11 @@ You want to hear about both processes and methods for taking feedback, but also 
 **How do you know if people are comfortable giving you candid feedback? How do you fix it if they’re not?**   
 Does your future manager value feedback and want to know what's not working? Hopefully, this is something they've thought about. 
 
-**How do you nurture psychological safety in your team?**
+**(For the hiring manager) How do you nurture psychological safety in your team?**
 The best organizations have probably spent considerable time thinking meaningfully about how they foster psychological safety on their teams and can readily articulate actions they've taken. Plenty of good organizations may not have thought about it in those terms -- they may lack the vocabulary -- but when prompted can still articulate what they've done. However, if get a blank stare or dismissiveness, even after prompting, that can indicate a toxic or hostile environment.
 
-
+**(For the hiring manager) Tell me about a time when you disagreed with someone on your team _and you changed your mind_?**
+This question can tell you a lot about a manager's overall leadership style (command and control or more collaborative), their openness and willingness to synthesize new information, their humility and ability to recognize when they may have been wrong, and a real-world example of psychological safety, rather than a hypothetical.
 
 ## Doing the work
 
